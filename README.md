@@ -3,8 +3,7 @@ Assignment-I
 ====================================================
 Part 1: Histogram Modification
 ====================================================
-I investigated the effect of an inverse gamma correction point operation given by an equation (see Assignment 1 notebook) on a perfectly normal image. The above point operation would produce an image which has to be gamma corrected to restore its original contrast.
-I included the original image and the pre-gamma corrected image in my report.
+I investigated the effect of an inverse gamma correction point operation given by an equation (see Assignment 1 notebook) on a perfectly normal image. The above point operation would produce an image which has to be gamma corrected to restore its original contrast. I included the original image and the pre-gamma corrected image in my report.
 ====================================================
 Part 2: Image Histogram
 ====================================================
@@ -22,8 +21,8 @@ Part 1: Spatial filtering
 =====================================================
 Write a Python function that uses the convolution method to perform spatial filtering on an image. Start by padding the image with 5 rows and columns to the border of the image, the value of the padding should be 0. Apply an averaging filter and Gaussian filter with a kernel size of 5x5 to image given below.  Display the filtered image in the report. 
 ======================================================================
- part 2:	Image sharpening by Unsharp Masking and Highboost Filtering
- =====================================================================
+ part 2: Image sharpening by Unsharp Masking and Highboost Filtering
+======================================================================
 Write a Python function to perform the following steps
 1. Blur the original image (Output of the first exercise)
 2. Subtract the blurred image from the original (mask)
