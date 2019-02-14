@@ -26,14 +26,11 @@ Write a Python function that uses the convolution method to perform spatial filt
 ======================================================================
  part 2: Image sharpening by Unsharp Masking and Highboost Filtering
 ======================================================================
-Write a Python function to perform the following steps.
-1. Blur the original image (Output of the first exercise)
-2. Subtract the blurred image from the original (mask)
-3. Add the mask to the original
-Display the sharpened image in the report.
-=======================================================================================================================================
-
-
+# Write a Python function to perform the following steps.
+# 1. Blur the original image (Output of the first exercise)
+# 2. Subtract the blurred image from the original (mask)
+# 3. Add the mask to the original
+# Display the sharpened image in the report.
 
   
 
