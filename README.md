@@ -1,4 +1,5 @@
 # Image-Processing
+
 Assignment-I
 ====================================================
 Part 1: Histogram Modification
@@ -15,6 +16,8 @@ Part 3: How Histogram Equalization Improves Contrast
 Code to achieve histogram equalization. Use 256 bins. 
 Included copies of the original and equalized histograms in this report as well as the original and equalized images.
 ======================================================================================================================================
+
+
 Assignment-II
 =====================================================
 Part 1: Spatial filtering
@@ -23,11 +26,12 @@ Write a Python function that uses the convolution method to perform spatial filt
 ======================================================================
  part 2: Image sharpening by Unsharp Masking and Highboost Filtering
 ======================================================================
-Write a Python function to perform the following steps
+Write a Python function to perform the following steps.
 1. Blur the original image (Output of the first exercise)
 2. Subtract the blurred image from the original (mask)
 3. Add the mask to the original
 Display the sharpened image in the report.
+=======================================================================================================================================
 
 
 
